@@ -1,4 +1,4 @@
-# PictureKeyLogger
+# PicLogger
 This tool run as a listenner she take a screenshot every 10seconds and send it to your email.
 <br>
 <br>
