@@ -1,0 +1,5 @@
+pyscreenshot
+smtplib
+email.MIMEMultipart
+email.MIMEText
+email.MIMEImage
